@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zackykurniawan
 - 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 📫 How to reach me zackykurniawn@gmail.com
 
 <!---
