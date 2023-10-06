@@ -4,7 +4,7 @@ I am **Zacky**, a Web Developer with 1+ years of experience in the web applicati
 
 ### Find me
 
-[![Linkedin: Muhammad Zacky Kurniawan](https://img.shields.io/badge/-Zacky%20Kurniawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zackykurniawan/)](https://www.linkedin.com/in/zackykurniawan/)
+[![Linkedin: Muhammad Zacky Kurniawan](https://img.shields.io/badge/-Muhammad%20Zacky%20Kurniawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zackykurniawan/)](https://www.linkedin.com/in/zackykurniawan/)
 <a href="mailto:zackykurniawn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zackykurniawan@gmail.com-blue?style=flat-square&logo=email"></a>
 [![](https://komarev.com/ghpvc/?username=zackykurniawan&color=blue&label=Profile%20Views)](https://github.com/zackykurniawan/zackykurniawan)
 [![](https://img.shields.io/github/followers/zackykurniawan?label=GitHub%20Followers)](https://github.com/zackykurniawan)
