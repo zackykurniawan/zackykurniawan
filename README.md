@@ -4,10 +4,10 @@ I am **Zacky**, a Software Engineer proficient in TypeScript and well-versed in 
 
 ### Find me
 
-[![Linkedin: Zacky Kurniawan](https://img.shields.io/badge/-Bayu%20Setiawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zackykurniawan/)](https://www.linkedin.com/in/zackykurniawan/)
-<a href="mailto:zackykurniawn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bayusetiawanipb-blue?style=flat-square&logo=email"></a>
-[![](https://komarev.com/ghpvc/?username=Bayusetiawan45&color=blue&label=Profile%20Views)](https://github.com/Bayusetiawan45/Bayusetiawan45)
-[![](https://img.shields.io/github/followers/Bayusetiawan45?label=GitHub%20Followers)](https://github.com/Bayusetiawan45)
+[![Linkedin: Zacky Kurniawan](https://img.shields.io/badge/-Zacky%20Kurniawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zackykurniawan/)](https://www.linkedin.com/in/zackykurniawan/)
+<a href="mailto:zackykurniawn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zackykurniawan-blue?style=flat-square&logo=email"></a>
+[![](https://komarev.com/ghpvc/?username=Bayusetiawan45&color=blue&label=Profile%20Views)](https://github.com/zackykurniawan/zackykurniawan)
+[![](https://img.shields.io/github/followers/Bayusetiawan45?label=GitHub%20Followers)](https://github.com/zackykurniawan)
 
 
 ### Statistics
